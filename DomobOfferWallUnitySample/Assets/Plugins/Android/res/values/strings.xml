@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, UnityActivity!</string>
+    <string name="app_name">Test.unity</string>
+    <string name="bannerid">dc483fd9e819fbc9ecc06594ddc3d96a</string>
+    <string name="adwallid">0f470c7647f9a7b0550d562638fcb577</string>
+    <string name="fullid">7d89fb8a7e3f1e6915ee230e6b767504</string>
+    <string name="interstitialid"></string>
+    <string name="cid">0ab5132a0c5bf2a43439bf16ce75dd55</string>
+</resources>
